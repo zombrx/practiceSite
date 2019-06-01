@@ -1,0 +1,94 @@
+ h1 {
+ font-size: 50px;
+ font-family: "Ubuntu", sans-serif;
+ text-align: center;
+ letter-spacing: 5px;
+ line-height: 2px;
+ margin: 20px;
+ }
+
+ p {
+  font-size: 30px;
+  font-family: "Ubuntu", sans-serif;
+  text-align: center;
+ }
+
+ h1 {
+  color: #2c5c9b;
+  text-shadow: 6px 7px 5px black;
+  position: relative;
+  bottom: -10px;
+  padding: 10px;
+  }
+
+  .boxed {
+    border: 10px  groove teal;
+    width: 138px;
+    margin: 10px;
+  }
+
+ h2 {
+  position: relative;
+  bottom: 596px;
+  right: 375px;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+ }
+
+ html {
+  font-size: 30px;
+  font-family: "Ubuntu", sans-serif;
+  
+  }
+
+  html {
+    line-height: 40px;
+    letter-spacing: 2px;
+    background-color: #09295e;
+    color: #8e8f91;
+  }
+
+  li {
+    font-size: 20px;
+    font-family: "Ubuntu", sans-serif;
+    line-height: 10px;
+    letter-spacing: 3px;
+    margin: 27px;
+    }
+
+    body {
+      width: 960px;
+      margin: 0 auto;
+      background-color: #0b254f;
+      padding: 3px 5px 10px 5px;
+      border: 8px solid black;
+    }
+
+    a {
+      font-size: 30px;
+      font-family: "Ubuntu", sans-serif;
+      line-height: 10px;
+      text-align: center;
+      letter-spacing: 3px;
+      margin: 27px;
+      color: teal;
+      }
+      
+      img {
+        display: block;
+        margin: 0 auto;
+        width: 700px;
+        position: relative;
+        bottom: -25px; 
+      padding: 10px;     
+    }
+
+    #wel {
+      padding: 5px 0px 30px;
+    }
+
+    #cs {
+      position: relative;
+      bottom: 596px;
+      right: 375px
+      
+    }
