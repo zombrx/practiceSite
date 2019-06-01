@@ -14,11 +14,11 @@
  }
 
  h1 {
-  color: #2c5c9b;
-  text-shadow: 6px 7px 5px black;
+  color: #00703c;
   position: relative;
   bottom: -10px;
   padding: 10px;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   }
 
   /*.boxed {
@@ -27,7 +27,7 @@
     margin: 10px;
   }*/
 
- h2 {
+ #cbd {
   /*position: relative;
   bottom: 596px;
   right: 375px;*/
@@ -45,8 +45,8 @@
   html {
     line-height: 40px;
     letter-spacing: 2px;
-    background-color: #09295e;
-    color: #8e8f91;
+    background-color: #000080;
+    color: #50C878;
   }
 
   li {
@@ -60,9 +60,16 @@
     body {
       width: 960px;
       margin: 0 auto;
-      background-color: #0b254f;
+      background-color: #00703c;
       padding: 3px 5px 10px 5px;
       border: 8px solid black;
+      background-image: url("https://d3atagt0rnqk7k.cloudfront.net/wp-content/uploads/2019/05/30121002/HighCBD-HempFlowers-1024x640.jpg")
+    }
+
+    body{
+      background-repeat: no-repeat;
+      background-position: top;
+      background-size: 1000px 567px;
     }
 
     a {
@@ -72,7 +79,8 @@
       text-align: center;
       letter-spacing: 3px;
       margin: 27px;
-      color: teal;
+      color: #000080;
+      padding: 0px 1px 0px 1px;
       }
       
       img {
@@ -86,11 +94,9 @@
 
     #wel {
       padding: 5px 0px 30px;
+      text-align: center;
     }
 
-    #cs {
-     /* position: relative;
-      bottom: 596px;
-      right: 375px
-      */
+    #des {
+      padding: 10px 0px 0px;
     }

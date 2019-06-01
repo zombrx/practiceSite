@@ -6,16 +6,16 @@ function multiply(num1,num2) {
     return result;
   }
 
-  document.querySelector('h2').onclick = function() {
-    alert('Ouch! Stop poking me!'); }
+  document.querySelector('h3').onclick = function() {
+    alert('Surprise! motherfucker!'); }
 
-    var myImage = document.querySelector('img');
+    //var myImage = document.querySelector('img');
 
-myImage.onclick = function() {
+/*myImage.onclick = function() {
     var mySrc = myImage.getAttribute('src');
-    if(mySrc === 'images/welcome.png') {
-      myImage.setAttribute ('src','images/meh.png');
+    if(mySrc === 'images/CBD.jpeg') {
+      myImage.setAttribute ('src','images/CBD2.jpeg');
     } else {
-      myImage.setAttribute ('src','images/welcome.png');
+      myImage.setAttribute ('src','images/CBD.jpeg');
     }
-}
+}*/
